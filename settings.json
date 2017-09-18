@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "editor.fontSize": 17,
+    "editor.fontFamily": "Monaco, 'Courier New', monospace",
+    "editor.renderWhitespace": "boundary",
+    "files.autoSave": "afterDelay",
+
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": true,
+    "workbench.iconTheme": "vscode-great-icons"
+}
